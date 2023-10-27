@@ -1,8 +1,7 @@
----
-name: your name
-course: cis106
-semester: spring 23
----
+
+Name: Seth Warren
+Course: cis106
+Semester: Fall 23
 
 # Lab 4 The linux FS
 
