@@ -8,13 +8,12 @@ Semester: Fall 2023
 
 > Tutorial can be found [here] (https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
 
-## Concepts I don't understand:
+## New Concepts I don't understand:
 
-* Web server:
-* Apache: Apache is available within Ubuntu’s default software repositories, making it possible to install it using conventional package management tools.
-* Firewall
-* systemd
-
+* Web server: A computer system capable of delivering web content to users over the internet
+* Apache: (A web server) Apache is available within Ubuntu’s default software repositories, making it possible to install it using conventional package management tools.
+* Firewall: Security in the form of software
+* systemd: Is a system and service manager for Linux, compatible with SysV and LSB init scripts
 
 ## What is a web server? Hardware and software slides
 a web server is a computer that stores web server software and a website's component files (for example, HTML documents, images, CSS stylesheets, and JavaScript files). A web server connects to the Internet and supports physical data interchange with other devices connected to the web.On the software side, a web server includes several parts that control how web users access hosted files. At a minimum, this is an HTTP server.
